@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 📫 work.sunyunxian@gmail.com
-- 📍 Shanghai or Nanjing
+- 📍  Shanghai or Nanjing
