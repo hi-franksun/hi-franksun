@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 work.sunyunxian@gmail.com
+- 📍 Shanghai or Nanjing
