@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 work.sunyunxian@gmail.com
-- 📍  Shanghai or Nanjing
+- 📫 personal_sunyunxian@foxmail.com
+- 📍  Nanjing⇄ Shanghai
 
- [![youtai22 github stats](https://github-readme-stats.vercel.app/api?username=youtai22)](https://github.com/youtai22)
+ [![sunyunxian github stats](https://github-readme-stats.vercel.app/api?username=sunyunxian)](https://github.com/sunyunxian)
