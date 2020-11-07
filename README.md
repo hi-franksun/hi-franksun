@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 - 📫 personal_sunyunxian@foxmail.com
 - 📍  Nanjing⇄ Shanghai
-
- [![sunyunxian github stats](https://github-readme-stats.vercel.app/api?username=sunyunxian)](https://github.com/sunyunxian)
