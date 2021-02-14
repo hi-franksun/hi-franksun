@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 personal_sunyunxian@foxmail.com
+- 📫 personal_sunyunxian@foxmail.com or work.sunyunxian@gmail.com
 - 📍  Nanjing ⇄ Shanghai
