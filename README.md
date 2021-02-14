@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 📫 personal_sunyunxian@foxmail.com
-- 📍  Nanjing⇄ Shanghai
+- 📍  Nanjing ⇄ Shanghai
