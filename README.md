@@ -6,3 +6,4 @@
 
 - :memo: [Blog](https://hi-franksun.github.io/)
 - :running: [RunningPage](https://hi-franksun.github.io/running_page/)
+- :camera: [Instagram](https://www.instagram.com/franksun2021/)
