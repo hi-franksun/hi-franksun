@@ -3,6 +3,6 @@
 
 - 📫 <personal_sunyunxian@foxmail.com> or <work.sunyunxian@gmail.com>
 - 📍  Nanjing ⇄ Shanghai
-- :memo: [Blog](https://hi-franksun.github.io/)
+- :memo: [Blog](https://franksun2013.github.io/)
 - :running: [RunningPage](https://hi-franksun.github.io/running_page/)
 - :camera: [Instagram](https://www.instagram.com/franksun2021/)
