@@ -5,4 +5,4 @@
 - 📍  Nanjing ⇄ Shanghai
 - :memo: [Blog](https://franksun2013.github.io/)
 - :running: [RunningPage](https://franksun2013.github.io/running_page/)
-- :camera: [Instagram](https://www.instagram.com/franksun2013/)
+- 🤦 [Weibo](https://weibo.com/u/7580000032)
